@@ -2,7 +2,7 @@
 
 # 創世紀
 
-> 斯拉格萊恩
+> Slugline
 
 -   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
