@@ -5,10 +5,10 @@
 > स्लगलाइन
 
 -   [डीएनएस](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [इमेजिस](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [Images](./IMAGES.md)
+-   [मातहत](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
@@ -28,7 +28,7 @@
 
 ## 300 - हमारे एप्लिकेशन का निर्माण
 
-See [README.md](./300/README.md)
+देखना[README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
