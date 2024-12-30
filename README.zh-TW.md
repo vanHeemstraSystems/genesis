@@ -16,7 +16,7 @@
 
 文字
 
-生成於[里特爾](https://app.rytr.me)
+生成於[Rytr](https://app.rytr.me)
 
 ## 100 - 簡介
 
@@ -32,4 +32,4 @@
 
 ## 400 - 結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
