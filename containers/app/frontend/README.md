@@ -7,6 +7,8 @@ Follow this order of installation, otherwise numpy 2.2.0 (with issues) is instal
 ```
 $ sudo apt-get update && sudo apt-get install ffmpeg libsm6 libxext6 -y
 $ pip install trimesh[all]
+$ pip install -U PyOpenGL
+$ pip install pyrender
 $ pip install -r requirements.txt
 ```
 
