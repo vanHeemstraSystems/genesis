@@ -9,10 +9,10 @@ Genesis
 -   [Glossar](./GLOSSARY.md)
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Zusammenfassung**
+**Executive Summary**
 
 Text
 
