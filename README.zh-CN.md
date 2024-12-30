@@ -16,7 +16,7 @@
 
 文本
 
-生成于[Rytr](https://app.rytr.me)
+生成于[里特尔](https://app.rytr.me)
 
 ## 100 - 简介
 
@@ -28,8 +28,8 @@
 
 ## 300 - 构建我们的应用程序
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - 结论
 
 看[README.md](./400/README.md)
