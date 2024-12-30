@@ -9,7 +9,7 @@
 -   [مسرد](./GLOSSARY.md)
 -   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
 **ملخص تنفيذي**
