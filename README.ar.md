@@ -1,4 +1,4 @@
-genesis
+سفر التكوين
 
 # سفر التكوين
 
@@ -10,7 +10,7 @@ genesis
 -   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [القياس عن بعد](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
@@ -22,7 +22,7 @@ genesis
 
 يرى[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - المتطلبات
 
 يرى[README.md](./200/README.md)
 
@@ -32,4 +32,4 @@ genesis
 
 ## 400 - الخاتمة
 
-See [README.md](./400/README.md)
+يرى[README.md](./400/README.md)
