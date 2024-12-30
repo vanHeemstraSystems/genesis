@@ -1,6 +1,6 @@
 genèse
 
-# Genèse
+# Genesis
 
 > Slugline
 
@@ -12,9 +12,9 @@ genèse
 -   [Références](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
-Text
+Texte
 
 Généré avec[Ritr](https://app.rytr.me)
 
@@ -32,4 +32,4 @@ Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
-See [README.md](./400/README.md)
+Voir[README.md](./400/README.md)
