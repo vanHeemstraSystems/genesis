@@ -2,10 +2,10 @@
 
 # 创世纪
 
-> 斯拉格莱恩
+> Slugline
 
 -   [域名系统](./DNS.md)
--   [文档](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
