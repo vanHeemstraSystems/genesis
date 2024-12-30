@@ -1,6 +1,6 @@
-genèse
+genesis
 
-# Genèse
+# Genesis
 
 > Slugline
 
@@ -8,7 +8,7 @@ genèse
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
 -   [Images](./IMAGES.md)
--   [Tamisé](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [Références](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
@@ -16,17 +16,17 @@ genèse
 
 Texte
 
-Généré avec[Rytr](https://app.rytr.me)
+Généré avec[Ritr](https://app.rytr.me)
 
 ## 100 - Introduction
 
-Voir[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Exigences
 
-See [README.md](./200/README.md)
+Voir[README.md](./200/README.md)
 
-## 300 - Créer notre application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
