@@ -9,10 +9,10 @@ génesis
 -   [Glosario](./GLOSSARY.md)
 -   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
--   [Referencias](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
-**Resumen ejecutivo**
+**Executive Summary**
 
 Texto
 
