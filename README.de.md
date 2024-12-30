@@ -16,11 +16,11 @@ Genesis
 
 Text
 
-Generated with [Ritr](https://app.rytr.me)
+Erstellt mit[Ritr](https://app.rytr.me)
 
-## 100 - Einführung
+## 100 - Introduction
 
-See [README.md](./100/README.md)
+Sehen[README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
@@ -30,6 +30,6 @@ Sehen[README.md](./200/README.md)
 
 Sehen[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 – Fazit
 
 Sehen[README.md](./400/README.md)
