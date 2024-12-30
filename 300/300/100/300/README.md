@@ -1,4 +1,6 @@
-# 200 - Requirements
+# 300 - 🛠️ Installation
+
+## Prerequisites
 
 - Python: 3.9+
 
