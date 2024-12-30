@@ -22,7 +22,7 @@ Generado con[ritr](https://app.rytr.me)
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Requisitos
 
 Ver[README.md](./200/README.md)
 
