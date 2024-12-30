@@ -2,7 +2,7 @@
 
 # भंडार का नाम
 
-> स्लगलाइन
+> Slugline
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
