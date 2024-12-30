@@ -5,7 +5,7 @@
 > 斯拉格萊恩
 
 -   [域名系統](./DNS.md)
--   [文件](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [圖片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
@@ -32,4 +32,4 @@
 
 ## 400 - 結論
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
