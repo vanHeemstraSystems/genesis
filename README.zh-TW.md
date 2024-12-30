@@ -9,7 +9,7 @@
 -   [詞彙表](./GLOSSARY.md)
 -   [圖片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [參考](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
 **執行摘要**
