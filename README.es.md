@@ -1,6 +1,6 @@
 génesis
 
-# Genesis
+# Génesis
 
 > línea de bala
 
@@ -9,7 +9,7 @@ génesis
 -   [Glosario](./GLOSSARY.md)
 -   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
--   [Referencias](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
 **Resumen ejecutivo**
@@ -28,7 +28,7 @@ Ver[README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
-See [README.md](./300/README.md)
+Ver[README.md](./300/README.md)
 
 ## 400 - Conclusión
 
