@@ -16,7 +16,7 @@ genèse
 
 Texte
 
-Généré avec[Ritr](https://app.rytr.me)
+Généré avec[Rytr](https://app.rytr.me)
 
 ## 100 - Introduction
 
@@ -24,7 +24,7 @@ Voir[README.md](./100/README.md)
 
 ## 200 - Exigences
 
-Voir[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - Créer notre application
 
