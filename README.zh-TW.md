@@ -1,6 +1,6 @@
-儲存庫名稱
+起源
 
-# 儲存庫名稱
+# 創世紀
 
 > 斯拉格萊恩
 
@@ -12,7 +12,7 @@
 -   [參考](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
-**Executive Summary**
+**執行摘要**
 
 文字
 
