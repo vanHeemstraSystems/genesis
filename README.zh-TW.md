@@ -6,29 +6,29 @@
 
 -   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [詞彙表](./GLOSSARY.md)
 -   [圖片](./IMAGES.md)
--   [Podman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [柔和的](./PODMAN.md)
+-   [參考](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
 **執行摘要**
 
-Text
+文字
 
-Generated with [里特爾](https://app.rytr.me)
+生成於[里特爾](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - 簡介
 
 看[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - 要求
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 建立我們的應用程式
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 結論
 
