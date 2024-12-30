@@ -16,7 +16,7 @@
 
 文字
 
-Generated with [里特爾](https://app.rytr.me)
+生成於[里特爾](https://app.rytr.me)
 
 ## 100 - 簡介
 
@@ -26,9 +26,9 @@ Generated with [里特爾](https://app.rytr.me)
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 建立我們的應用程式
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 結論
 
