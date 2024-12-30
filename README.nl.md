@@ -12,7 +12,7 @@ Genesis
 -   [Referenties](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Samenvatting**
+**Executive Summary**
 
 Tekst
 
