@@ -8,15 +8,15 @@
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [इमेजिस](./IMAGES.md)
--   [मातहत](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
--   [टेलीमेटरी](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
 
 मूलपाठ
 
-Generated with [रित्र](https://app.rytr.me)
+के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
@@ -26,10 +26,10 @@ Generated with [रित्र](https://app.rytr.me)
 
 देखना[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - हमारे एप्लिकेशन का निर्माण
 
 देखना[README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
-See [README.md](./400/README.md)
+देखना[README.md](./400/README.md)
