@@ -1,6 +1,6 @@
-存储库名称
+起源
 
-# 存储库名称
+# 创世纪
 
 > 斯拉格莱恩
 
@@ -10,7 +10,7 @@
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [参考](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [遥测](./TELEMETRY.md)
 
 **执行摘要**
 
