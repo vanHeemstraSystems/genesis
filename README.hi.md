@@ -1,4 +1,4 @@
-उत्पत्ति
+genesis
 
 # उत्पत्ति
 
@@ -8,7 +8,7 @@
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [इमेजिस](./IMAGES.md)
--   [मातहत](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
@@ -20,7 +20,7 @@
 
 ## 100 - परिचय
 
-देखना[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
