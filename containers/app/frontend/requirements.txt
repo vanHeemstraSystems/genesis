@@ -1,4 +1,8 @@
 # frontend/requirements.txt
+# Make sure to install pytorch (aka torch) before genesis, 
+# as genesis uses numpy 1.26.4 
+# whereas pytorch uses a newer numpy 2.0 which has issues
+# and would otherwise update numpy to 2.0
 --extra-index-url https://download.pytorch.org/whl/torch_stable.html
 torch==2.5.1
 torchvision==0.20.1
