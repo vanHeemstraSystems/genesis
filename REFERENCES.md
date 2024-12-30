@@ -1,3 +1,3 @@
 # References
 
-- [Reference Name](https://example.com)
+- [Genesis on GitHub](https://github.com/Genesis-Embodied-AI/Genesis)
