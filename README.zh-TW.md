@@ -10,7 +10,7 @@
 -   [圖片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [參考](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [遙測](./TELEMETRY.md)
 
 **執行摘要**
 
@@ -28,7 +28,7 @@
 
 ## 300 - 建立我們的應用程式
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 結論
 
