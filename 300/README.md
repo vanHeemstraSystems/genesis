@@ -8,6 +8,6 @@ See [README.md](./100/README.md)
 
 See [README.md](./200/README.md)
 
-## 300 - Documentation
+## 300 - User Guide
 
 See [README.md](./300/README.md)
