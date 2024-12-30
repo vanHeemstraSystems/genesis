@@ -7,7 +7,7 @@
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [Images](./IMAGES.md)
+-   [इमेजिस](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)

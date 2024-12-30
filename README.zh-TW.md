@@ -6,7 +6,7 @@
 
 -   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [詞彙表](./GLOSSARY.md)
 -   [圖片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [參考](./REFERENCES.md)
