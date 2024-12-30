@@ -1,8 +1,8 @@
-起源
+genesis
 
 # 創世紀
 
-> Slugline
+> 斯拉格萊恩
 
 -   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
