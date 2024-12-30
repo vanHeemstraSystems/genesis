@@ -1,6 +1,6 @@
 génesis
 
-# Génesis
+# Genesis
 
 > línea de bala
 
