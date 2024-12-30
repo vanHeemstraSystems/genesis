@@ -7,16 +7,16 @@ génesis
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
--   [Imágenes](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
-**Resumen ejecutivo**
+**Executive Summary**
 
 Texto
 
-Generado con[ritr](https://app.rytr.me)
+Generado con[Rytr](https://app.rytr.me)
 
 ## 100 - Introducción
 
@@ -24,7 +24,7 @@ Ver[README.md](./100/README.md)
 
 ## 200 - Requisitos
 
-Ver[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
