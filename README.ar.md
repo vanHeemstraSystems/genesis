@@ -1,6 +1,6 @@
 سفر التكوين
 
-# سفر التكوين
+# Genesis
 
 > سلوجلاين
 
@@ -12,11 +12,11 @@
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**ملخص تنفيذي**
+**Executive Summary**
 
 نص
 
-ولدت مع[ريتر](https://app.rytr.me)
+ولدت مع[Rytr](https://app.rytr.me)
 
 ## 100- مقدمة
 
@@ -26,7 +26,7 @@
 
 يرى[README.md](./200/README.md)
 
-## 300 – بناء تطبيقنا
+## 300 - Building Our Application
 
 يرى[README.md](./300/README.md)
 
