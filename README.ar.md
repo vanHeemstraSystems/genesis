@@ -1,4 +1,4 @@
-سفر التكوين
+genesis
 
 # سفر التكوين
 
@@ -7,7 +7,7 @@
 -   [DNS](./DNS.md)
 -   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
--   [Images](./IMAGES.md)
+-   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
@@ -16,7 +16,7 @@
 
 نص
 
-ولدت مع[Rytr](https://app.rytr.me)
+ولدت مع[ريتر](https://app.rytr.me)
 
 ## 100- مقدمة
 
@@ -26,9 +26,9 @@
 
 يرى[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 – بناء تطبيقنا
 
-يرى[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - الخاتمة
 
