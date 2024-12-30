@@ -1,0 +1,2 @@
+# frontend/requirements.txt
+genesis-world==0.2.0
