@@ -1,4 +1,4 @@
-سفر التكوين
+genesis
 
 # سفر التكوين
 
@@ -6,11 +6,11 @@
 
 -   [DNS](./DNS.md)
 -   [التوثيق](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [مسرد](./GLOSSARY.md)
 -   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
--   [القياس عن بعد](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
@@ -22,7 +22,7 @@
 
 يرى[README.md](./100/README.md)
 
-## 200 - المتطلبات
+## 200 - Requirements
 
 يرى[README.md](./200/README.md)
 
@@ -32,4 +32,4 @@
 
 ## 400 - الخاتمة
 
-يرى[README.md](./400/README.md)
+See [README.md](./400/README.md)
