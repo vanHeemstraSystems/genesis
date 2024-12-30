@@ -5,7 +5,7 @@ os.environ["IMAGEIO_FFMPEG_EXE"] = "/usr/bin/ffmpeg" # replace with the correct 
 
 gs.init(backend=gs.cpu)
 
-scene = gs.Scene()
+scene = gs.Scene(show_viewer=False) # use headless mode
 
 plane = scene.add_entity(
     gs.morphs.Plane(),
