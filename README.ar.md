@@ -5,8 +5,8 @@
 > سلوجلاين
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
--   [مسرد](./GLOSSARY.md)
+-   [التوثيق](./DOCUMENTATION.md)
+-   [Glossary](./GLOSSARY.md)
 -   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
