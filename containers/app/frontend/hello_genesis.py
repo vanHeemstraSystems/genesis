@@ -1,4 +1,7 @@
 import genesis as gs
+import os
+
+os.environ["IMAGEIO_FFMPEG_EXE"] = "/usr/bin/ffmpeg" # replace with the correct ffmpeg path
 
 gs.init(backend=gs.cpu)
 
