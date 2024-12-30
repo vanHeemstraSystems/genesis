@@ -7,7 +7,7 @@
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [इमेजिस](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
@@ -16,7 +16,7 @@
 
 मूलपाठ
 
-Generated with [रित्र](https://app.rytr.me)
+के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
 
 ## 100 - परिचय
 

@@ -6,7 +6,7 @@
 
 -   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
--   [詞彙表](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [圖片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [參考](./REFERENCES.md)
@@ -16,7 +16,7 @@
 
 文字
 
-Generated with [里特爾](https://app.rytr.me)
+生成於[里特爾](https://app.rytr.me)
 
 ## 100 - 簡介
 
